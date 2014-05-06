@@ -2,6 +2,9 @@ import java.awt.* ;
 import java.awt.event.KeyEvent;
 
 //comments
+
+//comments222
+
 public class Character {
 	public static final int XSPEED = 5;  //set the speed of the character in x direction  
 	public static final int YSPEED = 5;  //set the speed of the character in y direction
